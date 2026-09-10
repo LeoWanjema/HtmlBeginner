@@ -1,0 +1,36 @@
+ #nav{
+
+            background-color: orange;
+            color: green;
+            padding: 25px;
+
+         }
+
+         #link{
+            background-color: yellow;
+            color:blue;
+         }
+      
+          #link{
+            text-decoration: none;
+            background-color: gold;
+            padding:12px;
+            border-radius: 10%;
+             }
+
+        #link:hover{
+            background-color: blue;
+            color: gold;
+
+        }
+
+        #ban{
+            background-color: red;
+        }
+
+        #fut{
+         background-color:black;
+         color: orange;
+        }
+        
+
